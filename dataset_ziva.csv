@@ -1,0 +1,101 @@
+;Tweets;Text_tokens;Text_tokens_fdist
+0;husnan;['husnan'];<FreqDist with 1 samples and 1 outcomes>
+1;filihan yang terbaik;['filihan', 'yang', 'terbaik'];<FreqDist with 3 samples and 3 outcomes>
+2;jangan merokok yaa mending deketin aku aja soalnya kan rokok membunuhmu sedangkan aku ya mencintaimu;['jangan', 'merokok', 'yaa', 'mending', 'deketin', 'aku', 'aja', 'soalnya', 'kan', 'rokok', 'membunuhmu', 'sedangkan', 'aku', 'ya', 'mencintaimu'];<FreqDist with 14 samples and 15 outcomes>
+3;sisi kekanakan dari orang dewasa bisa dilihat dari supirsupir truk yang saling klaksonklaksonan di bawah trowonga;['sisi', 'kekanakan', 'dari', 'orang', 'dewasa', 'bisa', 'dilihat', 'dari', 'supirsupir', 'truk', 'yang', 'saling', 'klaksonklaksonan', 'di', 'bawah', 'trowonga'];<FreqDist with 15 samples and 16 outcomes>
+4;kamu cok kevr;['kamu', 'cok', 'kevr'];<FreqDist with 3 samples and 3 outcomes>
+5;siapapun ngelawak dong pake meme cepat berikan;['siapapun', 'ngelawak', 'dong', 'pake', 'meme', 'cepat', 'berikan'];<FreqDist with 7 samples and 7 outcomes>
+6;yuk barengbareng;['yuk', 'barengbareng'];<FreqDist with 2 samples and 2 outcomes>
+7;selamat pagi jangan lupa sikat gigi biar mulut tidak bau naga;['selamat', 'pagi', 'jangan', 'lupa', 'sikat', 'gigi', 'biar', 'mulut', 'tidak', 'bau', 'naga'];<FreqDist with 11 samples and 11 outcomes>
+8;gelap;['gelap'];<FreqDist with 1 samples and 1 outcomes>
+9;artis;['artis'];<FreqDist with 1 samples and 1 outcomes>
+10;di umur berapa kalian tau kalau kepanjangan gurita adalah gurih tiada tara;['di', 'umur', 'berapa', 'kalian', 'tau', 'kalau', 'kepanjangan', 'gurita', 'adalah', 'gurih', 'tiada', 'tara'];<FreqDist with 12 samples and 12 outcomes>
+11;nangis bgt idung kek teknologi;['nangis', 'bgt', 'idung', 'kek', 'teknologi'];<FreqDist with 5 samples and 5 outcomes>
+12;heh wkwkwk;['heh', 'wkwkwk'];<FreqDist with 2 samples and 2 outcomes>
+13;dulu gue kek mamah tp gue udah tobat;['dulu', 'gue', 'kek', 'mamah', 'tp', 'gue', 'udah', 'tobat'];<FreqDist with 7 samples and 8 outcomes>
+14;kok ratarata muka kebanyakan kucing tu pada photogenic ya;['kok', 'ratarata', 'muka', 'kebanyakan', 'kucing', 'tu', 'pada', 'photogenic', 'ya'];<FreqDist with 9 samples and 9 outcomes>
+15;ya aya wae;['ya', 'aya', 'wae'];<FreqDist with 3 samples and 3 outcomes>
+16;cut off orangorang toxic amp memperkecil circle bersosialisasi dalam hidup kita itu betul sebuah pilihan tapi janga;['cut', 'off', 'orangorang', 'toxic', 'amp', 'memperkecil', 'circle', 'bersosialisasi', 'dalam', 'hidup', 'kita', 'itu', 'betul', 'sebuah', 'pilihan', 'tapi', 'janga'];<FreqDist with 17 samples and 17 outcomes>
+17;seru banget gapake sempak;['seru', 'banget', 'gapake', 'sempak'];<FreqDist with 4 samples and 4 outcomes>
+18;mau tepuk tangan buat army indonesia kalian keren;['mau', 'tepuk', 'tangan', 'buat', 'army', 'indonesia', 'kalian', 'keren'];<FreqDist with 8 samples and 8 outcomes>
+19;heh kamu galiat yaa yang keren itu semuanya yang nyanyi disanaa amp yang suka tbtb bersenandung jangan dipaksa;['heh', 'kamu', 'galiat', 'yaa', 'yang', 'keren', 'itu', 'semuanya', 'yang', 'nyanyi', 'disanaa', 'amp', 'yang', 'suka', 'tbtb', 'bersenandung', 'jangan', 'dipaksa'];<FreqDist with 16 samples and 18 outcomes>
+20;terimakasih medan udah bantuin nyanyi pilihan yang terbaik;['terimakasih', 'medan', 'udah', 'bantuin', 'nyanyi', 'pilihan', 'yang', 'terbaik'];<FreqDist with 8 samples and 8 outcomes>
+21;turut berdukacita untuk korban kerusuhan di stadion kanjuruhan malang;['turut', 'berdukacita', 'untuk', 'korban', 'kerusuhan', 'di', 'stadion', 'kanjuruhan', 'malang'];<FreqDist with 9 samples and 9 outcomes>
+22;bau;['bau'];<FreqDist with 1 samples and 1 outcomes>
+23;hamil eek;['hamil', 'eek'];<FreqDist with 2 samples and 2 outcomes>
+24;its been  while since  tidak membahas perpupingan duniawi and  know what im holding back to defecate for li;['its', 'been', 'while', 'since', 'tidak', 'membahas', 'perpupingan', 'duniawi', 'and', 'know', 'what', 'im', 'holding', 'back', 'to', 'defecate', 'for', 'li'];<FreqDist with 18 samples and 18 outcomes>
+25;mikha ka mikha;['mikha', 'ka', 'mikha'];<FreqDist with 2 samples and 3 outcomes>
+26;rt juicy luicy feat ziva magnolya tampar live performance via https;['rt', 'juicy', 'luicy', 'feat', 'ziva', 'magnolya', 'tampar', 'live', 'performance', 'via', 'https'];<FreqDist with 11 samples and 11 outcomes>
+27;padahal udah ngerasa diri sendiri egois eh tapi ternyata ada yang lebih egois berarti wkwk;['padahal', 'udah', 'ngerasa', 'diri', 'sendiri', 'egois', 'eh', 'tapi', 'ternyata', 'ada', 'yang', 'lebih', 'egois', 'berarti', 'wkwk'];<FreqDist with 14 samples and 15 outcomes>
+28;mbamba resto mirip banget teh jipa aku heeh;['mbamba', 'resto', 'mirip', 'banget', 'teh', 'jipa', 'aku', 'heeh'];<FreqDist with 8 samples and 8 outcomes>
+29;;[];<FreqDist with 0 samples and 0 outcomes>
+30;mak;['mak'];<FreqDist with 1 samples and 1 outcomes>
+31;rt the one and only anakku seyeng;['rt', 'the', 'one', 'and', 'only', 'anakku', 'seyeng'];<FreqDist with 7 samples and 7 outcomes>
+32;bobo dikasur seharian gt nongkrong;['bobo', 'dikasur', 'seharian', 'gt', 'nongkrong'];<FreqDist with 5 samples and 5 outcomes>
+33;nunggu bgtbgtbgt rush hour rilis plis woi mas gebetan amp mas jharapan yu bisa yu dipercepat;['nunggu', 'bgtbgtbgt', 'rush', 'hour', 'rilis', 'plis', 'woi', 'mas', 'gebetan', 'amp', 'mas', 'jharapan', 'yu', 'bisa', 'yu', 'dipercepat'];<FreqDist with 14 samples and 16 outcomes>
+34;ini tu penggalan lirik dari lagu gue judulnya bahagia jadi bisa nangis lah ya sambil joget;['ini', 'tu', 'penggalan', 'lirik', 'dari', 'lagu', 'gue', 'judulnya', 'bahagia', 'jadi', 'bisa', 'nangis', 'lah', 'ya', 'sambil', 'joget'];<FreqDist with 16 samples and 16 outcomes>
+35;udah ada lagunya nih;['udah', 'ada', 'lagunya', 'nih'];<FreqDist with 4 samples and 4 outcomes>
+36;kukira aku akan jadi satu satunya ternyata aku bukan hanya salah satunya;['kukira', 'aku', 'akan', 'jadi', 'satu', 'satunya', 'ternyata', 'aku', 'bukan', 'hanya', 'salah', 'satunya'];<FreqDist with 10 samples and 12 outcomes>
+37;;[];<FreqDist with 0 samples and 0 outcomes>
+38;rt seneng bangeettt kalo ada yang ngenalin aku di publik terus ngajak foto bareng tapi kalo aku lagi pake masker jangan;['rt', 'seneng', 'bangeettt', 'kalo', 'ada', 'yang', 'ngenalin', 'aku', 'di', 'publik', 'terus', 'ngajak', 'foto', 'bareng', 'tapi', 'kalo', 'aku', 'lagi', 'pake', 'masker', 'jangan'];<FreqDist with 19 samples and 21 outcomes>
+39;berpengalaman banget ye kite;['berpengalaman', 'banget', 'ye', 'kite'];<FreqDist with 4 samples and 4 outcomes>
+40;emang suka gitu sih yang udah membentuk personal brandingnya kaya malaikat biasanya aslinya tu dajal;['emang', 'suka', 'gitu', 'sih', 'yang', 'udah', 'membentuk', 'personal', 'brandingnya', 'kaya', 'malaikat', 'biasanya', 'aslinya', 'tu', 'dajal'];<FreqDist with 15 samples and 15 outcomes>
+41;rt announcing  wtf exclusive an allstar act featuring tiara andin;['rt', 'announcing', 'wtf', 'exclusive', 'an', 'allstar', 'act', 'featuring', 'tiara', 'andin'];<FreqDist with 10 samples and 10 outcomes>
+42;parah;['parah'];<FreqDist with 1 samples and 1 outcomes>
+43;mending jangan nonton tiktok yang barusan gw upload;['mending', 'jangan', 'nonton', 'tiktok', 'yang', 'barusan', 'gw', 'upload'];<FreqDist with 8 samples and 8 outcomes>
+44;;[];<FreqDist with 0 samples and 0 outcomes>
+45;happy million views mv pilihan yang terbaik on youtube keep streaming;['happy', 'million', 'views', 'mv', 'pilihan', 'yang', 'terbaik', 'on', 'youtube', 'keep', 'streaming'];<FreqDist with 11 samples and 11 outcomes>
+46;sangat paham sangat mengerti dan sini aku peluk;['sangat', 'paham', 'sangat', 'mengerti', 'dan', 'sini', 'aku', 'peluk'];<FreqDist with 7 samples and 8 outcomes>
+47;kurang estetik;['kurang', 'estetik'];<FreqDist with 2 samples and 2 outcomes>
+48;kalo pilter aing kayang sambil nyanyi dah sumpah;['kalo', 'pilter', 'aing', 'kayang', 'sambil', 'nyanyi', 'dah', 'sumpah'];<FreqDist with 8 samples and 8 outcomes>
+49;rt kaget tiba trending umum;['rt', 'kaget', 'tiba', 'trending', 'umum'];<FreqDist with 5 samples and 5 outcomes>
+50;;[];<FreqDist with 0 samples and 0 outcomes>
+51;teori konspirasi ending mv pilter kalian team mana  ziva ngubur box berisi kenangan bersama chicco  ziva hab;['teori', 'konspirasi', 'ending', 'mv', 'pilter', 'kalian', 'team', 'mana', 'ziva', 'ngubur', 'box', 'berisi', 'kenangan', 'bersama', 'chicco', 'ziva', 'hab'];<FreqDist with 16 samples and 17 outcomes>
+52;ini ya kak pesanannya hidangkan selagi hangat amp selamat menikmati official music video pilihan yang terbaik;['ini', 'ya', 'kak', 'pesanannya', 'hidangkan', 'selagi', 'hangat', 'amp', 'selamat', 'menikmati', 'official', 'music', 'video', 'pilihan', 'yang', 'terbaik'];<FreqDist with 16 samples and 16 outcomes>
+53;buat yang tautau aja;['buat', 'yang', 'tautau', 'aja'];<FreqDist with 4 samples and 4 outcomes>
+54;menit menuju mv pilihan yang terbaik;['menit', 'menuju', 'mv', 'pilihan', 'yang', 'terbaik'];<FreqDist with 6 samples and 6 outcomes>
+55;jangaan dipaksaaa;['jangaan', 'dipaksaaa'];<FreqDist with 2 samples and 2 outcomes>
+56;haha;['haha'];<FreqDist with 1 samples and 1 outcomes>
+57;pake minyak goreng;['pake', 'minyak', 'goreng'];<FreqDist with 3 samples and 3 outcomes>
+58;taboook nii;['taboook', 'nii'];<FreqDist with 2 samples and 2 outcomes>
+59;kevr hihiii;['kevr', 'hihiii'];<FreqDist with 2 samples and 2 outcomes>
+60;before after;['before', 'after'];<FreqDist with 2 samples and 2 outcomes>
+61;plis bapak  tiap hari tersambo sambo;['plis', 'bapak', 'tiap', 'hari', 'tersambo', 'sambo'];<FreqDist with 6 samples and 6 outcomes>
+62;fess imut bgt;['fess', 'imut', 'bgt'];<FreqDist with 3 samples and 3 outcomes>
+63;lol iya lagi;['lol', 'iya', 'lagi'];<FreqDist with 3 samples and 3 outcomes>
+64;yang apa namanyaa;['yang', 'apa', 'namanyaa'];<FreqDist with 3 samples and 3 outcomes>
+65;taichan jakarta paling enak dimanasi;['taichan', 'jakarta', 'paling', 'enak', 'dimanasi'];<FreqDist with 5 samples and 5 outcomes>
+66;rt ini lagu enak bgt bikin hepi asli semua orang harus tau harus dengerin;['rt', 'ini', 'lagu', 'enak', 'bgt', 'bikin', 'hepi', 'asli', 'semua', 'orang', 'harus', 'tau', 'harus', 'dengerin'];<FreqDist with 13 samples and 14 outcomes>
+67;;[];<FreqDist with 0 samples and 0 outcomes>
+68;bantu stream lagu bahagia di spotify dong plis biar paling bawah tuh lagu bahagia gitu makasih yyyy;['bantu', 'stream', 'lagu', 'bahagia', 'di', 'spotify', 'dong', 'plis', 'biar', 'paling', 'bawah', 'tuh', 'lagu', 'bahagia', 'gitu', 'makasih', 'yyyy'];<FreqDist with 15 samples and 17 outcomes>
+69;;[];<FreqDist with 0 samples and 0 outcomes>
+70;ente kadang kadang ente;['ente', 'kadang', 'kadang', 'ente'];<FreqDist with 2 samples and 4 outcomes>
+71;jangan berekspektasi ya wkwk nanti biasanya kalo orang udah gak nungguin malah aku bikin;['jangan', 'berekspektasi', 'ya', 'wkwk', 'nanti', 'biasanya', 'kalo', 'orang', 'udah', 'gak', 'nungguin', 'malah', 'aku', 'bikin'];<FreqDist with 14 samples and 14 outcomes>
+72;padahal masih gr tapi udah serame ini;['padahal', 'masih', 'gr', 'tapi', 'udah', 'serame', 'ini'];<FreqDist with 7 samples and 7 outcomes>
+73;;[];<FreqDist with 0 samples and 0 outcomes>
+74;sampai bertemu di panggungpanggung lainnya;['sampai', 'bertemu', 'di', 'panggungpanggung', 'lainnya'];<FreqDist with 5 samples and 5 outcomes>
+75;ih lucu;['ih', 'lucu'];<FreqDist with 2 samples and 2 outcomes>
+76;cocok peranin siapa ya kalo gini;['cocok', 'peranin', 'siapa', 'ya', 'kalo', 'gini'];<FreqDist with 6 samples and 6 outcomes>
+77;for jir bukan or;['for', 'jir', 'bukan', 'or'];<FreqDist with 4 samples and 4 outcomes>
+78;thank you so much buat kalian semua yang semalem nonton aku di social chic jujur nervous bgt or the first time nya;['thank', 'you', 'so', 'much', 'buat', 'kalian', 'semua', 'yang', 'semalem', 'nonton', 'aku', 'di', 'social', 'chic', 'jujur', 'nervous', 'bgt', 'or', 'the', 'first', 'time', 'nya'];<FreqDist with 22 samples and 22 outcomes>
+79;kalo udah tau salah bisa diem aj gasi gpp dah ga minta maap paling ngga gausah membenarkan diri kalo posisi lu udah jelasjelas salah;['kalo', 'udah', 'tau', 'salah', 'bisa', 'diem', 'aj', 'gasi', 'gpp', 'dah', 'ga', 'minta', 'maap', 'paling', 'ngga', 'gausah', 'membenarkan', 'diri', 'kalo', 'posisi', 'lu', 'udah', 'jelasjelas', 'salah'];<FreqDist with 21 samples and 24 outcomes>
+80;iiih anjir bgt lah niat hari ini mau nonton film nope ternyata kemaren hari terakhir ditayangin di bioskopnya faaaagg;['iiih', 'anjir', 'bgt', 'lah', 'niat', 'hari', 'ini', 'mau', 'nonton', 'film', 'nope', 'ternyata', 'kemaren', 'hari', 'terakhir', 'ditayangin', 'di', 'bioskopnya', 'faaaagg'];<FreqDist with 18 samples and 19 outcomes>
+81;kamu bukan ikan yang ikan itu aku sama lini;['kamu', 'bukan', 'ikan', 'yang', 'ikan', 'itu', 'aku', 'sama', 'lini'];<FreqDist with 8 samples and 9 outcomes>
+82;bisa gonta ganti ternyata;['bisa', 'gonta', 'ganti', 'ternyata'];<FreqDist with 4 samples and 4 outcomes>
+83;dapet salam;['dapet', 'salam'];<FreqDist with 2 samples and 2 outcomes>
+84;bukan ziva kalo gak plot twist;['bukan', 'ziva', 'kalo', 'gak', 'plot', 'twist'];<FreqDist with 6 samples and 6 outcomes>
+85;pokoke ada surprise dari aku buat kalian yang nonton social chic tanggal nanti ya hehe ill see  guys there;['pokoke', 'ada', 'surprise', 'dari', 'aku', 'buat', 'kalian', 'yang', 'nonton', 'social', 'chic', 'tanggal', 'nanti', 'ya', 'hehe', 'ill', 'see', 'guys', 'there'];<FreqDist with 19 samples and 19 outcomes>
+86;ayo dipaksa bila semua tlah berbeda;['ayo', 'dipaksa', 'bila', 'semua', 'tlah', 'berbeda'];<FreqDist with 6 samples and 6 outcomes>
+87;rt magnolya;['rt', 'magnolya'];<FreqDist with 2 samples and 2 outcomes>
+88;abis dengerin teh yura boleh dengerin aku juga ehe;['abis', 'dengerin', 'teh', 'yura', 'boleh', 'dengerin', 'aku', 'juga', 'ehe'];<FreqDist with 8 samples and 9 outcomes>
+89;kok bisa sih;['kok', 'bisa', 'sih'];<FreqDist with 3 samples and 3 outcomes>
+90;rt magnolya is  half of my lyfe thanks to this gorgeous person;['rt', 'magnolya', 'is', 'half', 'of', 'my', 'lyfe', 'thanks', 'to', 'this', 'gorgeous', 'person'];<FreqDist with 12 samples and 12 outcomes>
+91;rt salah satu cita dari jaman tsm emang pengen top tracks receiptify di fullin njip;['rt', 'salah', 'satu', 'cita', 'dari', 'jaman', 'tsm', 'emang', 'pengen', 'top', 'tracks', 'receiptify', 'di', 'fullin', 'njip'];<FreqDist with 15 samples and 15 outcomes>
+92;find the courage to leave the table if respect is no longer being served;['find', 'the', 'courage', 'to', 'leave', 'the', 'table', 'if', 'respect', 'is', 'no', 'longer', 'being', 'served'];<FreqDist with 13 samples and 14 outcomes>
+93;kok cipung bisa mirip bgt sama rafathar ya;['kok', 'cipung', 'bisa', 'mirip', 'bgt', 'sama', 'rafathar', 'ya'];<FreqDist with 8 samples and 8 outcomes>
+94;nangis bgt;['nangis', 'bgt'];<FreqDist with 2 samples and 2 outcomes>
+95;aku kalo mau pipis sih ngetweet ya bukan pipis;['aku', 'kalo', 'mau', 'pipis', 'sih', 'ngetweet', 'ya', 'bukan', 'pipis'];<FreqDist with 8 samples and 9 outcomes>
+96;rt pas kerja ngantuk pas rebahan ngantuknya hilang berasa diprank badan sendiri;['rt', 'pas', 'kerja', 'ngantuk', 'pas', 'rebahan', 'ngantuknya', 'hilang', 'berasa', 'diprank', 'badan', 'sendiri'];<FreqDist with 11 samples and 12 outcomes>
+97;suka bgd sm poni kecombrang;['suka', 'bgd', 'sm', 'poni', 'kecombrang'];<FreqDist with 5 samples and 5 outcomes>
+98;yu bisa yu kak jangan dipaksaaa bila semua tlah berbeda;['yu', 'bisa', 'yu', 'kak', 'jangan', 'dipaksaaa', 'bila', 'semua', 'tlah', 'berbeda'];<FreqDist with 9 samples and 10 outcomes>
+99;amin nanggung banget gaksiee mulu dari dulu kek sekali sekali hahaha;['amin', 'nanggung', 'banget', 'gaksiee', 'mulu', 'dari', 'dulu', 'kek', 'sekali', 'sekali', 'hahaha'];<FreqDist with 10 samples and 11 outcomes>
